@@ -2,6 +2,9 @@
 
 ## Product recommendations using FP Growth Algorithm
 
+> Link to [Data Hub Dashboard]( https://vsystem.ingress.dh-8mpnxbtqj.dh-canary.shoot.live.k8s-hana.ondemand.com/)
+
+
 1. Open the Data Hub dashboard and open the modeler.
 
   ![Alt text](./images/1.jpg "Optional title")
