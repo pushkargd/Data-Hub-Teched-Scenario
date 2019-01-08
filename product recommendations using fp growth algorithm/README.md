@@ -2,8 +2,6 @@
 
 ## Product recommendations using FP Growth Algorithm
 
-> <b><i> Load the data required for the scenario by following this [tutorial](https://github.wdf.sap.corp/refapps/datahub-dine/blob/master/tutorials/loading%20of%20data/README.md) </i> </b>
-
 1. Open the Data Hub dashboard and open the modeler.
 
   ![Alt text](./images/1.jpg "Optional title")
@@ -181,7 +179,7 @@ python27
   ![Alt text](./images/30.jpg "Optional title")
 
 
-31. Save the pipeline and call it as “Recommender”.
+31. Save the pipeline and call it as “<i-number>-Recommender”.
 
   ![Alt text](./images/31.jpg "Optional title")
 
