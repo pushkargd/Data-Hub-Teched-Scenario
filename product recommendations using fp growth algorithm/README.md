@@ -179,7 +179,7 @@ python27
   ![Alt text](./images/30.jpg "Optional title")
 
 
-31. Save the pipeline and call it as “<i-number>-Recommender”.
+31. Save the pipeline and call it as “<(your I number)>-Recommender”.
 
   ![Alt text](./images/31.jpg "Optional title")
 
