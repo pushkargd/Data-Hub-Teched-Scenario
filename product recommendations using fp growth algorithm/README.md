@@ -192,8 +192,10 @@ python27
   ![Alt text](./images/32.jpg "Optional title")
 
 
-33. See the output as below
+33. See the output by clicking the button on the terminal as shown below
 
+  ![Alt text](./images/34.jpg "Optional title")
+  
   ![Alt text](./images/33.jpg "Optional title")
 
 
